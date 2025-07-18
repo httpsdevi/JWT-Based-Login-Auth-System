@@ -173,16 +173,5 @@ Authorization: Bearer <jwt_token>
   "success": true,
   "message": "Welcome to your dashboard!"
 }
-**📜 License**
-This project is licensed under the MIT License.
 
-**🧹 .gitignore Sample**
-Create a .gitignore file and add the following:
-
-bash
-Copy
-Edit
-node_modules/
-.env
-.DS_Store
 
